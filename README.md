@@ -1,5 +1,10 @@
 ### Olá! eu sou Fábio Júnior!!👋
 
+<ul>
+  <li>Técnico em Informática (2020 - 2022 IFMT)</li>
+  <li>Engenharia da Computação (2022 - 2027 IFMT)</li>
+</ul>
+
 <div align="center">
   <a href="https://github.com/Fabio-jr-SM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabio-jr-SM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
